@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5a29876b3238b4941a47607902652cbf, type: 3}
+  m_Name: PuzzlesDificiles
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzlePool
+  puzzles:
+  - prefab: {fileID: 368718199939859435, guid: 61b303d09dfe3aa4598e4522c4a65432, type: 3}
+    dificultad: 5
+  - prefab: {fileID: 368718199939859435, guid: 6bfc7c4550d169d438e24f329a4f967f, type: 3}
+    dificultad: 5
+  - prefab: {fileID: 368718199939859435, guid: 07c1a63c80d31d944bda6989cc0477b1, type: 3}
+    dificultad: 7
+  - prefab: {fileID: 368718199939859435, guid: ac87d350cdb50a44b8b2a0c51e9aab6d, type: 3}
+    dificultad: 7
